@@ -20,6 +20,9 @@ function closestToZero(arr){
       }
     }
     console.log(current_nearest);
+    if(2 < 3) {
+      console.log("hihihiihihhi");
+    }
     return current_nearest
   }
 }
