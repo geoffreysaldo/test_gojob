@@ -19,8 +19,11 @@ function closestToZero(arr){
         }
       }
     }
+    console.log(current_nearest);
     return current_nearest
   }
 }
 
 module.exports = closestToZero;
+
+
